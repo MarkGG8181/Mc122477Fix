@@ -24,8 +24,9 @@
     "mc122477fix.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.14.18",
-    "fabric": "*",
-    "minecraft": ">=1.19.4"
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.5",
+    "java": ">=21",
+    "fabric-api": "*"
   }
 }
